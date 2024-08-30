@@ -16,16 +16,16 @@ let gameOver = false;
 
 // Load images
 const birdImage = new Image();
-birdImage.src = 'images/bird.png';
+birdImage.src = 'bird.png';
 
 const pipeImage = new Image();
-pipeImage.src = 'images/pipe.png';
+pipeImage.src = 'pipe.png';
 
 const backgroundImage = new Image();
-backgroundImage.src = 'images/background.png';
+backgroundImage.src = 'background.png';
 
 const gameOverImage = new Image();
-gameOverImage.src = 'images/gameover.png';
+gameOverImage.src = 'gameover.png';
 
 // Load number images
 const numberImages = [];
